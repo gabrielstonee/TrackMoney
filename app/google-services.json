@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "658355303142",
+    "firebase_url": "https://trackmoney-7d0a5.firebaseio.com",
+    "project_id": "trackmoney-7d0a5",
+    "storage_bucket": "trackmoney-7d0a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658355303142:android:4ed9f3a4a9688071ea4127",
+        "android_client_info": {
+          "package_name": "com.example.trackmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658355303142-1m8iuf05qc74k368mfrmp1iu2dkfs0vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackmoney",
+            "certificate_hash": "5934b1f9e6cadae6821123e3bde95e931099ea74"
+          }
+        },
+        {
+          "client_id": "658355303142-0uvjtko3dpb2pl26kabts9p7rh53fp5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJTNFH1IjeuH2kaHm5HTNWPR7WcCx41Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658355303142-0uvjtko3dpb2pl26kabts9p7rh53fp5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
